@@ -13,6 +13,7 @@ Or with Docker:
 ``
 docker build -t patient-api .
 ``
+
 ``
 docker run -p 8000:8000 patient-api
 ``
