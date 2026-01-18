@@ -1,4 +1,4 @@
-Patient API
+# Patient API
 
 Simple in-memory patient management API using FastAPI.
 Tech stack: Python, FastAPI, Pydantic, Uvicorn, Docker
