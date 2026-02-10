@@ -1,5 +1,7 @@
 # Patient API
 
+Status: Ongoing
+
 Simple in-memory patient management API using FastAPI.
 Tech stack: Python, FastAPI, Pydantic, Uvicorn, Docker
 Run locally: 
